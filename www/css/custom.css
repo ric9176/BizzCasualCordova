@@ -1,0 +1,28 @@
+.nav-salmon {
+  background: rgba(231, 76, 60, 0.54);
+}
+
+.navbar {
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+  color: #ffffff
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #ffffff
+}
+
+.navbar-default .navbar-toggle {
+  border: none;
+  background: none;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff
+}
