@@ -3,11 +3,12 @@
 }
 
 .navbar {
+  padding-top: 0.5em;
   border: none;
 }
 
 .navbar-default .navbar-brand {
-  color: #ffffff
+  color: #ffffff;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
